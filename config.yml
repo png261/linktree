@@ -1,0 +1,20 @@
+# config.yml
+name: "Phuong Nguyen"
+avatar: "https://avatars.githubusercontent.com/u/63899044?s=400&u=e9fcd18325813c70d3a410fead86fc84dbce4cbe&v=4" # paste an img at root of project or an image source url
+bio: "Software Engineer"
+meta:
+  lang: "en"
+  description: "Software Engineer"
+  title: "Phuong Nguyen"
+  author: "Phuong Nguyen"
+  siteUrl: "https://png261.github.io"
+links:
+  - name: "Github"
+    url: "https://github.com/png261"
+  - name: "LinkedIn"
+    url: ""
+  - name: "Youtube"
+    url: ""
+  - name: "Twitter/X"
+    url: ""
+theme: "custom"
