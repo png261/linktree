@@ -8,9 +8,10 @@ import (
 )
 
 type SiteConfig struct {
+	BaseURL string `yaml:"baseUrl"`
 	Name    string `yaml:"name"`
 	Bio     string `yaml:"bio"`
-	Avatar string `yaml:"avatar"`
+	Avatar  string `yaml:"avatar"`
 	Meta    Meta   `yaml:"meta"`
 	Links   []Link `yaml:"links"`
 	Theme   string `yaml:"theme"`

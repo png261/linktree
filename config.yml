@@ -1,4 +1,5 @@
 # config.yml
+baseUrl: "https://png261.github.io/linktree"
 name: "Phuong Nguyen"
 avatar: "https://avatars.githubusercontent.com/u/63899044?s=400&u=e9fcd18325813c70d3a410fead86fc84dbce4cbe&v=4" # paste an img at root of project or an image source url
 bio: "Software Engineer"

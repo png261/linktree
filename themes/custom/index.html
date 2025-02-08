@@ -14,7 +14,7 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
     />
-    <link rel="stylesheet" href="/assets/css/styles.css" />
+    <link rel="stylesheet" href="{{.Config.BaseURL}}/assets/css/styles.css" />
 
     <meta property="og:title" content="{{.Config.Meta.Title}}" />
     <meta property="og:site_name" content="{{.Config.Meta.Title}}" />
@@ -47,6 +47,6 @@
     <footer>
       <small>© <span class="year"></span> {{.Config.Meta.Author}} </small>
     </footer>
-    <script src="/assets/js/script.js"></script>
+    <script src="{{.Config.BaseURL}}/assets/js/script.js"></script>
   </body>
 </html>
